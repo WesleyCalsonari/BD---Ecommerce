@@ -30,7 +30,7 @@ O diagrama conceitual completo está disponível na imagem abaixo:
 
 ## 👨‍💻 Implementação
 
-A implementação do diagrama conceitual está localizado no arquivo (BD_ecommerce.sql)[BD_ecommerce.sql]
+A implementação do diagrama conceitual está localizado no arquivo [BD_ecommerce.sql](https://github.com/WesleyCalsonari/BD---Ecommerce/blob/main/BD_ecommerce.sql)
 
 ---
 
